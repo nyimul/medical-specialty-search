@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Dermatology",
+    "description": "Treats skin, hair, and nail conditions including acne, eczema, psoriasis, rashes, rosacea, and skin cancer. Handles concerns like itchy skin, suspicious moles, hair loss, and chronic breakouts. Performs procedures such as biopsies, mole removal, and cosmetic skin treatments."
+  },
+  {
+    "name": "Cardiology",
+    "description": "Specializes in the heart and blood vessels, treating conditions like high blood pressure, heart attacks, arrhythmias, heart failure, and coronary artery disease. Patients often visit for chest pain, shortness of breath, palpitations, or dizziness. Performs tests like EKGs, stress tests, and echocardiograms."
+  },
+  {
+    "name": "Pediatrics",
+    "description": "Provides medical care for infants, children, and adolescents from birth through age 18. Covers everything from routine checkups, vaccinations, and growth monitoring to childhood illnesses like ear infections, asthma, and developmental concerns. Often the first stop for any health issue affecting a child."
+  },
+  {
+    "name": "Rheumatology",
+    "description": "Treats autoimmune and inflammatory conditions affecting joints, muscles, and connective tissue, such as rheumatoid arthritis, lupus, gout, and fibromyalgia. Patients typically present with joint pain, stiffness, swelling, or unexplained fatigue. Manages chronic conditions through medications and infusion therapies."
+  },
+  {
+    "name": "Endocrinology",
+    "description": "Focuses on hormones and the glands that produce them, treating conditions like diabetes, thyroid disorders, PCOS, osteoporosis, and adrenal problems. Patients often come in for unexplained weight changes, fatigue, hair loss, or irregular periods. Manages insulin therapy and hormone replacement."
+  },
+  {
+    "name": "Hematology",
+    "description": "Treats disorders of the blood and bone marrow, including anemia, clotting disorders, sickle cell disease, hemophilia, and blood cancers like leukemia and lymphoma. Patients may be referred for low blood counts, easy bruising, or abnormal bleeding. Often works closely with oncology."
+  },
+  {
+    "name": "Oncology",
+    "description": "Diagnoses and treats cancer of all types, including breast, lung, colon, prostate, and skin cancers. Manages treatment plans involving chemotherapy, immunotherapy, and targeted therapies. Patients are typically referred after a suspicious finding or biopsy result."
+  },
+  {
+    "name": "Neurology",
+    "description": "Handles disorders of the brain, spinal cord, and nerves, including migraines, epilepsy, stroke, multiple sclerosis, Parkinson's, and neuropathy. Patients often present with headaches, numbness, tingling, seizures, tremors, or memory problems. Performs tests like EEGs and nerve conduction studies."
+  },
+  {
+    "name": "Gastroenterology",
+    "description": "Treats digestive system issues affecting the stomach, intestines, liver, pancreas, and gallbladder. Common conditions include acid reflux, IBS, Crohn's disease, ulcerative colitis, hepatitis, and ulcers. Performs procedures like colonoscopies and endoscopies for screening and diagnosis."
+  },
+  {
+    "name": "Pulmonology",
+    "description": "Specializes in the lungs and respiratory system, treating asthma, COPD, pneumonia, sleep apnea, pulmonary fibrosis, and lung cancer. Patients often visit for chronic cough, wheezing, shortness of breath, or trouble breathing. Manages oxygen therapy and CPAP machines."
+  },
+  {
+    "name": "Nephrology",
+    "description": "Focuses on kidney health and diseases like chronic kidney disease, kidney stones, glomerulonephritis, and electrolyte imbalances. Patients are often referred for high blood pressure, protein in urine, or declining kidney function. Manages dialysis and prepares patients for kidney transplants."
+  },
+  {
+    "name": "Urology",
+    "description": "Treats conditions of the urinary tract and male reproductive system, including kidney stones, UTIs, prostate problems, erectile dysfunction, and bladder issues. Patients come in for blood in urine, frequent urination, pelvic pain, or fertility concerns. Performs procedures like vasectomies and prostate biopsies."
+  },
+  {
+    "name": "Obstetrics and Gynecology",
+    "description": "Provides care for women's reproductive health, pregnancy, and childbirth. Handles concerns like irregular periods, pelvic pain, contraception, menopause, fibroids, and prenatal care. Performs Pap smears, ultrasounds, and deliveries."
+  },
+  {
+    "name": "Ophthalmology",
+    "description": "Specializes in eye and vision care, treating conditions like cataracts, glaucoma, macular degeneration, diabetic retinopathy, and dry eye. Patients visit for blurry vision, eye pain, floaters, or vision loss. Performs eye surgeries including LASIK and cataract removal."
+  },
+  {
+    "name": "Otolaryngology",
+    "description": "Also known as ENT, treats disorders of the ear, nose, and throat, including sinus infections, hearing loss, vertigo, tonsillitis, and sleep apnea. Patients come in for sore throats, ear pain, ringing in the ears, or chronic congestion. Performs procedures like tonsillectomies and sinus surgery."
+  },
+  {
+    "name": "Psychiatry",
+    "description": "Diagnoses and treats mental health conditions including depression, anxiety, bipolar disorder, schizophrenia, ADHD, and PTSD. Manages medications and works alongside therapists. Patients seek help for mood changes, panic attacks, sleep issues, or difficulty functioning."
+  },
+  {
+    "name": "Orthopedics",
+    "description": "Treats injuries and conditions of the bones, joints, ligaments, tendons, and muscles. Common reasons for visits include back pain, fractures, torn ACLs, arthritis, and sports injuries. Performs joint replacements, arthroscopic surgeries, and fracture repairs."
+  },
+  {
+    "name": "Allergy and Immunology",
+    "description": "Treats allergies, asthma, and immune system disorders, including seasonal allergies, food allergies, eczema, hives, and recurrent infections. Patients come in for sneezing, itching, anaphylaxis history, or frequent illness. Performs allergy testing and administers immunotherapy."
+  },
+  {
+    "name": "Infectious Disease",
+    "description": "Specializes in complex or persistent infections including HIV, tuberculosis, Lyme disease, hepatitis, and antibiotic-resistant infections. Patients are often referred for fevers of unknown origin, travel-related illnesses, or infections that aren't responding to treatment. Manages long-term antibiotic and antiviral therapies."
+  },
+  {
+    "name": "Family Medicine",
+    "description": "Provides primary care for patients of all ages, handling routine checkups, preventive care, and management of chronic conditions like diabetes and high blood pressure. Often the first point of contact for any health concern, from colds to mental health. Coordinates referrals to specialists when needed."
+  },
+  {
+    "name": "Internal Medicine",
+    "description": "Provides comprehensive primary care for adults, focusing on prevention, diagnosis, and treatment of complex medical conditions. Manages chronic illnesses like hypertension, diabetes, and heart disease. Patients often see internists for annual physicals and ongoing health management."
+  },
+  {
+    "name": "Geriatrics",
+    "description": "Specializes in healthcare for older adults, addressing age-related issues like dementia, falls, frailty, polypharmacy, and incontinence. Helps manage multiple chronic conditions and medications simultaneously. Focuses on maintaining independence and quality of life."
+  },
+  {
+    "name": "Plastic Surgery",
+    "description": "Performs reconstructive and cosmetic procedures including breast reconstruction, burn repair, cleft palate surgery, and elective procedures like rhinoplasty. Treats traumatic injuries, congenital defects, and patients seeking aesthetic improvements. Also handles complex wound care and skin grafts."
+  },
+  {
+    "name": "Vascular Surgery",
+    "description": "Treats diseases of the arteries and veins, including aneurysms, peripheral artery disease, varicose veins, and blood clots. Patients are often referred for leg pain when walking, non-healing wounds, or swelling. Performs bypass surgeries and minimally invasive vascular procedures."
+  },
+  {
+    "name": "General Surgery",
+    "description": "Performs surgical procedures on the abdomen, digestive tract, breast, skin, and soft tissues. Handles appendectomies, hernia repairs, gallbladder removal, and biopsies. Often involved in trauma care and emergency surgical situations."
+  },
+  {
+    "name": "Neurosurgery",
+    "description": "Performs surgery on the brain, spine, and nervous system to treat conditions like brain tumors, herniated discs, spinal stenosis, aneurysms, and traumatic injuries. Patients are referred for severe back pain, neurological symptoms, or imaging that shows structural problems. Performs both open and minimally invasive surgeries."
+  },
+  {
+    "name": "Cardiothoracic Surgery",
+    "description": "Performs surgery on the heart, lungs, and chest, including coronary bypass, valve replacements, lung cancer surgery, and aortic aneurysm repair. Treats patients with severe heart disease or thoracic conditions requiring surgical intervention. Often works closely with cardiologists and pulmonologists."
+  },
+  {
+    "name": "Anesthesiology",
+    "description": "Manages pain and sedation during surgery and procedures, and provides care for chronic pain conditions. Handles epidurals during childbirth, nerve blocks, and pain management for back pain, migraines, and neuropathy. Monitors patients before, during, and after operations."
+  },
+  {
+    "name": "Radiology",
+    "description": "Uses imaging like X-rays, CT scans, MRIs, and ultrasounds to diagnose diseases. Interventional radiologists also perform minimally invasive procedures like biopsies, angiograms, and tumor ablations. Works behind the scenes to interpret images that guide treatment decisions."
+  },
+  {
+    "name": "Pathology",
+    "description": "Examines tissue samples, blood, and bodily fluids to diagnose disease, including cancer diagnoses from biopsies. Works in the lab to analyze specimens and provide critical information for treatment decisions. Patients rarely meet pathologists directly but rely on their findings."
+  },
+  {
+    "name": "Emergency Medicine",
+    "description": "Provides urgent care for acute injuries and illnesses in the ER, handling everything from heart attacks and strokes to broken bones and severe infections. Manages life-threatening situations and stabilizes patients for further care. First responders for trauma, overdoses, and acute medical events."
+  },
+  {
+    "name": "Physical Medicine and Rehabilitation",
+    "description": "Helps patients recover function after injuries, strokes, spinal cord injuries, and amputations. Treats chronic pain, sports injuries, and musculoskeletal disorders without surgery. Coordinates physical therapy, occupational therapy, and rehabilitation programs."
+  },
+  {
+    "name": "Sleep Medicine",
+    "description": "Diagnoses and treats sleep disorders including sleep apnea, insomnia, narcolepsy, and restless leg syndrome. Patients come in for snoring, daytime fatigue, trouble falling asleep, or unusual nighttime behaviors. Conducts sleep studies and prescribes CPAP therapy."
+  },
+  {
+    "name": "Pain Management",
+    "description": "Specializes in treating chronic pain from conditions like back pain, nerve damage, arthritis, fibromyalgia, and post-surgical pain. Uses medications, injections, nerve blocks, and physical therapy to reduce pain. Patients are often referred when pain has lasted months and isn't responding to standard treatment."
+  },
+  {
+    "name": "Podiatry",
+    "description": "Treats foot, ankle, and lower leg conditions including bunions, plantar fasciitis, ingrown toenails, diabetic foot ulcers, and ankle sprains. Patients visit for foot pain, heel pain, or nail problems. Performs foot surgeries and provides custom orthotics."
+  },
+  {
+    "name": "Maternal-Fetal Medicine",
+    "description": "Cares for high-risk pregnancies involving conditions like gestational diabetes, preeclampsia, multiple births, or fetal abnormalities. Patients are referred when there are complications or concerns during pregnancy. Performs detailed ultrasounds and prenatal diagnostic procedures."
+  },
+  {
+    "name": "Neonatology",
+    "description": "Provides intensive care for premature and critically ill newborns in the NICU. Handles complications from prematurity, birth defects, breathing problems, and infections in infants. Works closely with families during stressful early weeks of a baby's life."
+  },
+  {
+    "name": "Reproductive Endocrinology and Infertility",
+    "description": "Treats infertility and reproductive hormone disorders in both men and women. Manages conditions like PCOS, endometriosis, and recurrent miscarriages. Performs fertility treatments including IVF, IUI, and egg freezing."
+  },
+  {
+    "name": "Gynecologic Oncology",
+    "description": "Treats cancers of the female reproductive system, including ovarian, uterine, cervical, and vulvar cancers. Patients are referred after abnormal Pap smears, suspicious imaging, or biopsy results. Performs complex pelvic surgeries and manages chemotherapy."
+  },
+  {
+    "name": "Hepatology",
+    "description": "Specializes in liver, gallbladder, and bile duct diseases including hepatitis, cirrhosis, fatty liver disease, and liver cancer. Patients are often referred for elevated liver enzymes, jaundice, or abnormal imaging. Manages patients before and after liver transplants."
+  }
+]
