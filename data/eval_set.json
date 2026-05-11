@@ -1,0 +1,152 @@
+[
+  {
+    "query": "I have a really itchy red rash on my arms that won't go away",
+    "expected": "Dermatology",
+    "difficulty": "easy"
+  },
+  {
+    "query": "my chest hurts and my heart feels like it's racing",
+    "expected": "Cardiology",
+    "difficulty": "easy"
+  },
+  {
+    "query": "my 4 year old has been pulling at his ear and crying all night",
+    "expected": "Pediatrics",
+    "difficulty": "easy"
+  },
+  {
+    "query": "I keep getting these terrible migraines almost every week",
+    "expected": "Neurology",
+    "difficulty": "easy"
+  },
+  {
+    "query": "my vision has gotten really blurry over the past few months",
+    "expected": "Ophthalmology",
+    "difficulty": "easy"
+  },
+  {
+    "query": "I think I broke my ankle playing basketball yesterday",
+    "expected": "Orthopedics",
+    "difficulty": "easy"
+  },
+  {
+    "query": "I've been feeling really depressed and anxious lately and nothing helps",
+    "expected": "Psychiatry",
+    "difficulty": "easy"
+  },
+  {
+    "query": "I sneeze constantly during spring and my eyes water like crazy",
+    "expected": "Allergy and Immunology",
+    "difficulty": "easy"
+  },
+  {
+    "query": "I need to schedule my annual physical and update my vaccines",
+    "expected": "Family Medicine",
+    "difficulty": "easy"
+  },
+  {
+    "query": "my wife is pregnant and we need prenatal care",
+    "expected": "Obstetrics and Gynecology",
+    "difficulty": "easy"
+  },
+  {
+    "query": "my hands have been really stiff in the mornings and my knuckles look swollen",
+    "expected": "Rheumatology",
+    "difficulty": "medium"
+  },
+  {
+    "query": "I've lost a lot of weight without trying and I'm always thirsty",
+    "expected": "Endocrinology",
+    "difficulty": "medium"
+  },
+  {
+    "query": "I have heartburn every night and sometimes food comes back up",
+    "expected": "Gastroenterology",
+    "difficulty": "medium"
+  },
+  {
+    "query": "my husband snores so loud and stops breathing in his sleep",
+    "expected": "Sleep Medicine",
+    "difficulty": "medium"
+  },
+  {
+    "query": "there's blood in my urine and it burns when I pee",
+    "expected": "Urology",
+    "difficulty": "medium"
+  },
+  {
+    "query": "I keep getting sinus infections like 5 times a year",
+    "expected": "Otolaryngology",
+    "difficulty": "medium"
+  },
+  {
+    "query": "my dad is 82 and getting confused, falling a lot, and on like 9 medications",
+    "expected": "Geriatrics",
+    "difficulty": "medium"
+  },
+  {
+    "query": "the bottom of my heel kills me every morning when I get out of bed",
+    "expected": "Podiatry",
+    "difficulty": "medium"
+  },
+  {
+    "query": "my husband and I have been trying to have a baby for 2 years",
+    "expected": "Reproductive Endocrinology and Infertility",
+    "difficulty": "medium"
+  },
+  {
+    "query": "I had a stroke last year and I'm still trying to get my arm working again",
+    "expected": "Physical Medicine and Rehabilitation",
+    "difficulty": "medium"
+  },
+  {
+    "query": "I came back from a trip to southeast asia and I've had fevers on and off for weeks",
+    "expected": "Infectious Disease",
+    "difficulty": "medium"
+  },
+  {
+    "query": "my legs cramp and hurt really bad when I walk more than a block",
+    "expected": "Vascular Surgery",
+    "difficulty": "medium"
+  },
+  {
+    "query": "my eyes look yellow and my skin is itchy all over",
+    "expected": "Hepatology",
+    "difficulty": "medium"
+  },
+  {
+    "query": "I had an abnormal pap smear and they found something on my ovary",
+    "expected": "Gynecologic Oncology",
+    "difficulty": "medium"
+  },
+  {
+    "query": "I bruise really easily and bleed forever from tiny cuts",
+    "expected": "Hematology",
+    "difficulty": "medium"
+  },
+  {
+    "query": "I'm so tired all the time, my hair is falling out, and I've gained weight",
+    "expected": "Endocrinology",
+    "difficulty": "hard"
+  },
+  {
+    "query": "I have this dull ache in my upper back that's been going on for months and sometimes I feel short of breath",
+    "expected": "Cardiology",
+    "difficulty": "hard"
+  },
+  {
+    "query": "my joints hurt everywhere, I'm exhausted, and I have weird rashes that come and go",
+    "expected": "Rheumatology",
+    "difficulty": "hard"
+  },
+  {
+    "query": "I get dizzy spells and sometimes the room spins for a few seconds",
+    "expected": "Otolaryngology",
+    "difficulty": "hard"
+  },
+  {
+    "query": "I had a c-section 3 weeks ago and the incision is red, hot, and oozing",
+    "expected": "General Surgery",
+    "difficulty": "hard"
+  }
+]
