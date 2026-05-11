@@ -1,6 +1,5 @@
 #env
 from dotenv import load_dotenv
-import os
 #embeddings from OpenAI
 from openai import OpenAI
 #read json
